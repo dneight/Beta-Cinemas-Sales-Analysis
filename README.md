@@ -2,7 +2,9 @@
 Project Data Analysis using Excel and Power BI
 ![dashboard](https://github.com/user-attachments/assets/44825922-f2c3-44f4-8853-0156b452744e)
 ------------------------------------------------------------------------------------------
-calculate ATP, Occupancy, Revenue
+
+
+***calculate ATP, Occupancy, Revenue
 
 ![ATP](https://github.com/user-attachments/assets/5cacd6e5-0edb-400a-888a-05a52a4e6aa5)
 
@@ -12,18 +14,55 @@ calculate ATP, Occupancy, Revenue
 
 ![Revenue](https://github.com/user-attachments/assets/20cd7c4e-ba6b-48e9-97c0-0d10767e811b)
 ------------------------------------------------------------------------------------------
-Power Query
+
+
+
+***Power Query
 
 ![power query](https://github.com/user-attachments/assets/05e3e0db-d7ac-4109-9b4d-15ffe48f5b6b)
 
 ----------------------------------------------------------------------------------------------
-Vloopup() & Index() & randbetween()
 
 
 
-Pivot Table & Slicer
+***Vloopup() & Index() & randbetween()
+
+  
+
+![excel_formulas](https://github.com/user-attachments/assets/7f907e5c-593b-4d4b-acde-a9af204abee9)
+---------------------------------------------------------------------------------------------
+
+
+***Pivot Table & Slicer
+
+
+
+![pivot_table_slicer](https://github.com/user-attachments/assets/d7cf2d7c-3c5e-4109-9d8e-79adff9ff304)
+-----------------------------------------------------------------------------------------
 
 
 
 
-Record Macro in VBA
+***Record Macro in VBA
+
+![record_macro1](https://github.com/user-attachments/assets/491f050d-2ab5-4d2a-a410-20838a026d9c)
+
+
+
+![record_macro2](https://github.com/user-attachments/assets/360dc9cb-aa0f-4723-914a-2475a8d5c50f)
+
+------------------------------------------------------------------------------------------
+
+
+
+Resume & Cover Letter
+
+[Duyen Nguyen - Data Analyst Resume.pdf](https://github.com/user-attachments/files/25604469/Duyen.Nguyen.-.Data.Analyst.Resume.pdf)
+
+
+[Duyen Nguyen - Data Analyst Cover Letter.pdf](https://github.com/user-attachments/files/25604474/Duyen.Nguyen.-.Data.Analyst.Cover.Letter.pdf)
+
+-------------------------------------------------------------------------------------------
+
+
+
